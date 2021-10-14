@@ -66,9 +66,9 @@ body {
   }
 
   .column {
-    margin-right: 17px;
+    float: left;
+    margin-right: 21px;
     margin-top: 20px;
-    display: inline-block;
     width: 651px;
     height: 220px;
     top: 488px;
